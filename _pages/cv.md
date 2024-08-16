@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Philosophy. 2022
+Applied Mathematics and Scientific Computing
+Institut des Math ́ematiques de Bordeaux, University of Bordeaux, France
+* Master of Science, Mathematical Engineering Politecnico di Milano, Milan, Italy. 2019
 
-Work experience
+Appointments and research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Post-doctoral associate. February 2023-February 2025
+  * Ecole des Ponts Paristech
+  * Adviser: V. Ehrlacher
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PhD student. October 2019-December 2022
+  * INRIA Bordeaux South-West, MEMPHIS team, Institut des Math ́ematiques de Bordeaux
+  * Advisers: A. Iollo, T. Taddei
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Internship student. April 2018-April 2019
+  * Politecnico di Milano, Laboratory for Modeling and Scientific Computing (MOX)
+  * Adviser: C. Vergara.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab, Python, LATEX, FreeFem++, Scilab, C++, Paraview
+* Languages
+  * Italian: mothertongue
+  * English: C1 CEFR level
+  * French: B2 CEFR level
 
 Publications
 ======
@@ -59,6 +56,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
