@@ -1,5 +1,5 @@
 ---
-title: "An optimization-based model order reduction approach for coupled problems: ap- plication to thermo-hydro-mechanical systems"
+title: "An optimization-based model order reduction approach for coupled problems: application to thermo-hydro-mechanical systems"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
