@@ -7,7 +7,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 date: 2022-10-01
 venue: 'International Journal for Numerical Methods in Engineering.'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6964'
 #citation: 'Sambataro. (2022).'
 ---
 

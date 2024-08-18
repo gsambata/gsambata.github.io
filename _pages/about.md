@@ -1,11 +1,23 @@
 ---
 permalink: /
-title: "Research overview"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a Post-doctoral researcher in Applied Mathematics at Ecole des Ponts et Chaussees, Marne la Vallee, France.
+
+## Research interests
+<ul>
+<li> Numerical methods for partial differential equations (especially model reduction) </li>
+<li>Data-based/simulation-based methods, machine learning techniques </li>
+<li>Multiphysics coupled systems, variational inequalities (contact mechanics) </li>
+<li>Optimization </li>
+</ul> 
+
+
+<!-- ---
 ## PhD project
 
 ### Motivation
@@ -20,4 +32,4 @@ This phenomenon requires a careful assessment of the long-term effects on neighb
 
 From a mathematical viewpoint, the system behaviour is described by time-dependent large scale coupled systems of partial differential equations (PDEs) called Thermo-Hydro-Mechanical (THM) systems: they model the behaviour of temperature, pore water pressure and solid displacement in the neighborhood of geological repositories. To introduce the mathematical formulation, we consider the spatial variable x in the Lipschitz domain$\Omega$
 
-
+ -->
