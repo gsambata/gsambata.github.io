@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+You can find [here](../files/autoCV.pdf) the pdf version of my CV.
 
 {% include base_path %}
 
@@ -13,7 +14,7 @@ Education
 ======
 * Doctor of Philosophy. 2022
 Applied Mathematics and Scientific Computing
-Institut des Math ́ematiques de Bordeaux, University of Bordeaux, France
+Institut des Mathematiques de Bordeaux, University of Bordeaux, France
 * Master of Science, Mathematical Engineering Politecnico di Milano, Milan, Italy. 2019
 
 Appointments and research experience
