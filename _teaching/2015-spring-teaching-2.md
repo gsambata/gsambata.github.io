@@ -8,6 +8,3 @@ date: November 2024-January 2024
 <>location: "City, Country"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
-
-
