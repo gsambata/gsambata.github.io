@@ -12,9 +12,9 @@ You can find [here](../files/autoCV.pdf) the pdf version of my CV.
 
 Education
 ======
-* Doctor of Philosophy. 2022
-Applied Mathematics and Scientific Computing
-Institut des Mathematiques de Bordeaux, University of Bordeaux, France
+* Doctor of Philosophy.
+Applied Mathematics and Scientific Computing\
+Institut des Mathematiques de Bordeaux, University of Bordeaux, France. 2022
 * Master of Science, Mathematical Engineering Politecnico di Milano, Milan, Italy. 2019
 
 Appointments and research experience
