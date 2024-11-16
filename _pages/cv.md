@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find [here](../files/autoCV.pdf) the pdf version of my CV.
+
 
 {% include base_path %}
 
