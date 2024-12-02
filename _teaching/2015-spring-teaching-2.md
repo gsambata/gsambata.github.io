@@ -1,5 +1,5 @@
 ---
-title: "Introduction to objected oriented programming"
+title: "Programmation orientée objet en Python"
 collection: teaching
 type: "Undergraduate. Full course (theoretical and exercise lessons)"
 permalink: /teaching/2015-spring-teaching-1
