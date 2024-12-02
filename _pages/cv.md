@@ -37,7 +37,7 @@ Skills
 * Languages
   * Italian: mothertongue
   * English: C1 CEFR level
-  * French: B2 CEFR level
+  * French: C1 CEFR level
 
 Publications
 ======

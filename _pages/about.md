@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Post-doctoral researcher in Applied Mathematics at Ecole des Ponts et Chaussees, Marne la Vallee, France.
+I am a Post-doctoral researcher in Applied Mathematics at École des Ponts et Chaussées, Marne la Vallée, France.
 
 ## Research interests
 <ul>
