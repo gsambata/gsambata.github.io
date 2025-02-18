@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am a Postdoctoral researcher in Applied Mathematics at FAU, Friedrich-Alexander-Universität, Erlangen (Germany), where I collaborate with Prof. E. Zuazua.
+Before, I got a PhD in applied mathematics from the University of Bordeaux, France and I worked as a postdoctoral researcher at École Nationale des Ponts et Chaussées, Marne La Vallée, France.
 
 ## Research interests
 <ul>
