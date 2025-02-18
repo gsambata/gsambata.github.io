@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Post-doctoral researcher in Applied Mathematics at École des Ponts et Chaussées, Marne la Vallée, France.
+I am a Postdoctoral researcher in Applied Mathematics at FAU, Friedrich-Alexander-Universität, Erlangen (Germany), where I collaborate with Prof. E. Zuazua.
 
 ## Research interests
 <ul>
