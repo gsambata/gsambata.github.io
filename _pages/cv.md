@@ -19,17 +19,17 @@ Institut des Mathematiques de Bordeaux, University of Bordeaux, France. 2022
 
 Appointments and research experience
 ======
-* Post-doctoral associate. February 2023-February 2025
-  * Ecole des Ponts Paristech
-  * Adviser: V. Ehrlacher
+* Post-doctoral associate. February 2023-January 2025
+  * Cermics, École nationale des Ponts et Chaussées. Inria Paris (MATHERIALS team).
+  * Adviser: Prof. V. Ehrlacher
 
 * PhD student. October 2019-December 2022
-  * INRIA Bordeaux South-West, MEMPHIS team, Institut des Math ́ematiques de Bordeaux
-  * Advisers: A. Iollo, T. Taddei
+  * INRIA Bordeaux South-West (MEMPHIS team), Institut des Math ́ematiques de Bordeaux
+  * Advisers: Prof. A. Iollo, Dr. T. Taddei
 
 * Internship student. April 2018-April 2019
   * Politecnico di Milano, Laboratory for Modeling and Scientific Computing (MOX)
-  * Adviser: C. Vergara.
+  * Adviser: Prof. C. Vergara.
   
 Skills
 ======
