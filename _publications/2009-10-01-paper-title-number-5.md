@@ -1,5 +1,5 @@
 ---
-title: "Reduction de modele basee sur des composants elementaires pour des systemes Therm0-Hydro-Mechaniques "
+title: "Reduction de modele basee sur des composants elementaires pour des systemes Thermo-Hydro-Mechaniques "
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-5
