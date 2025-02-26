@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 You can download here my extended [CV](http://academicpages.github.io/files/cv.pdf).
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
 
 {% include base_path %}
 
