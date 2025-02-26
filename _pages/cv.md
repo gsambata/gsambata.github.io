@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download here my extended [CV](files/cv.pdf).
+You can download here my extended [CV]('http://academicpages.github.io/files/cv.pdf').
 
 {% include base_path %}
 
