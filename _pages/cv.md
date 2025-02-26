@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 You can download here my extended CV
-<embed src="https://gsambata.github.io/cv.pdf" type="application/pdf" />
+<a href="https://gsambata.github.io/files/cv.pdf">mypdf</a>
 
 {% include base_path %}
 
