@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-You can download here my extended [CV](http://academicpages.github.io/files/cv.pdf).
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
+You can download here my extended [CV]
+<a href="gsambata.github.io/files/cv.pdf" target="_blank">PDF.</a>
 
 {% include base_path %}
 
