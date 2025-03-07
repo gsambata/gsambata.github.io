@@ -18,19 +18,19 @@ Before, I got a PhD in applied mathematics from the University of Bordeaux, Fran
 </ul> 
 
 
-<!-- ---
-## PhD project
+<!-- Questo è un commento e non verrà visualizzato nella pagina -->
 
-### Motivation
-The application motivating my Phd thesis is the disposal and storage of high-level radioactive waste materials in geological media. I collaborated with Andra, — the French National Agency for Radioactive Waste Management. To protect the environment from the radioactive emission, the radioactive waste is disposed in packages that are located horizontally deep underground (at approximately 300 to 500 meters) and are monitored until their radioactivity has decayed to an acceptable level. Figure 1 is a schematic representatin of waste disposal in the repositories. Due to the large temperature of the radioactive waste, a thermal flux is generated inside the alveoli: the thermal flux then drives the mechanical and hydraulic response of the geological medium over the course of several years.
-<img src="images/repository2.png"
-     alt="Markdown Monster icon"
-    width="300"
-     style="float: right; margin-right: 10px;" />
-This phenomenon requires a careful assessment of the long-term effects on neighboring areas.
+## Summary of research activities
 
-### The THM problem
+The application that motivated **my doctoral thesis** is the storage of high-level radioactive waste in geological environments.  
+The work is driven by applications to thermo-hydro-mechanical (THM) systems---I collaborated with [Andra](https://www.andra.fr)
+--- the French National Agency for Radioactive Waste Management.
 
-From a mathematical viewpoint, the system behaviour is described by time-dependent large scale coupled systems of partial differential equations (PDEs) called Thermo-Hydro-Mechanical (THM) systems: they model the behaviour of temperature, pore water pressure and solid displacement in the neighborhood of geological repositories. To introduce the mathematical formulation, we consider the spatial variable x in the Lipschitz domain$\Omega$
+
+
+<!--\[ a^2 + b^2 = c^2 \]
+
+Possiamo anche scrivere una formula inline, come \( E = mc^2 \), per rappresentare la famosa equazione di Einstein sulla relatività.
+
 
  -->
