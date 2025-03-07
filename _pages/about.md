@@ -32,12 +32,16 @@ Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sa
 
 ### Multi-particles systems: model order reduction and machine learning
 During my postdoc, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. 
+<figure>
 <video width="300" controls>
   <source src="files/nlRBvideo.mp4" type="video/mp4">
-  Comparison between the nonlinear reduced basis (nlRB) reconstruction of the positions based on the employment of hyper-reduction (EIM) and the high-fidelity (HF) solutions.
 </video>
+ <figcaption>Comparison between the nonlinear reduced basis (nlRB) reconstruction of the positions based on the employment of hyper-reduction (EIM) and the high-fidelity (HF) solutions.</figcaption>
+</figure>
 
 
+  
+ 
 
 
 <!--\[ a^2 + b^2 = c^2 \]
