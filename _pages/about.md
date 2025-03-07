@@ -28,7 +28,7 @@ In [Iollo et al. 2023](https://www.sciencedirect.com/science/article/pii/S004578
 Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sanchez_Pinedo_755799274pap_193.pdf) and in my [PhD thesis](https://theses.hal.science/tel-04006932/document) I extended the CB formulation and methodology to time-dependent nonlinear problems with internal variables to solve the THM problem of interest.
 
 ### <span class="blue-text">Multi-particles systems: model order reduction and machine learning.</span>
-During my postdoc, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. I explored novel numerical approaches that combine the reduced-basis method with supervised machine learning techniques. In [this pre-print](https://hal.science/hal-04936941) I developed a hybrid method enabling more accurate and efficient predictions of particle velocities and contact forces compared to traditional methods.
+**During my postdoc**, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. I explored novel numerical approaches that combine the reduced-basis method with supervised machine learning techniques. In [this pre-print](https://hal.science/hal-04936941) I developed a hybrid method enabling more accurate and efficient predictions of particle velocities and contact forces compared to traditional methods.
 <div style="text-align: center;">
 <figure>
 <video width="300" controls>
