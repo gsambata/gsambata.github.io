@@ -32,14 +32,7 @@ Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sa
 
 ### Multi-particles systems: model order reduction and machine learning
 During my postdoc, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. 
-<!--
-<figure>
-    <img src="files/domain.png" alt="The domain">
-    <figcaption>Representative sketch of the two-dimensional discrete contact problem region: obstacles and contact
-walls are marked in blue; particles are marked in red.</figcaption>
-</figure>
--->
-<video width="600" controls>
+<video width="300" controls>
   <source src="files/nlRBvideo.mp4" type="video/mp4">
   Comparison between the nonlinear reduced basis (nlRB) reconstruction of the positions based on the employment of hyper-reduction (EIM) and the high-fidelity (HF) solutions.
 </video>
