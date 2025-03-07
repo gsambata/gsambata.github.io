@@ -13,12 +13,12 @@ Before, I got a PhD in applied mathematics from the University of Bordeaux, (Fra
 <ul>
 <li> Numerical methods for partial differential equations (especially model order reduction) </li>
 <li>Data-based/simulation-based methods, machine learning techniques </li>
-<li>Multiphysics coupled systems, variational inequalities (contact mechanics) </li>
+<li>Multiphysics coupled systems, domain decomposition </li>
+<li>Variational inequalities (contact mechanics) </li>
 </ul> 
 
-<!-- Questo è un commento e non verrà visualizzato nella pagina -->
-## Some research activities
-### Multi-physics problems: component-based model order reduction
+### Some research activities
+#### Multi-physics problems: component-based model order reduction
 The application that motivated **my doctoral thesis** is the storage of high-level radioactive waste in geological media---I collaborated with [Andra](https://www.andra.fr)
 ---the French National Agency for Radioactive Waste Management.
 The Thermo-Hydro-Mechanical (THM) equations model the behavior of temperature, interstitial water pressure, and solid displacement in the proximity of geological repositories, which contain radioactive waste and are responsible for a significant thermal flux toward the Earth's surface. 
@@ -27,7 +27,7 @@ Changes in the position and/or number of radioactive waste repositories could le
 In [Iollo et al. 2023](https://www.sciencedirect.com/science/article/pii/S0045782522007423) I proposed a CB-pMOR formulation for stationary problems in nonlinear elasticity. 
 Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sanchez_Pinedo_755799274pap_193.pdf) and in my [PhD thesis](https://theses.hal.science/tel-04006932/document) I extended the CB formulation and methodology to time-dependent nonlinear problems with internal variables to solve the THM problem of interest.
 
-### Multi-particles systems: model order reduction and machine learning
+#### Multi-particles systems: model order reduction and machine learning
 During my postdoc, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. I explored novel numerical approaches that combine the reduced-basis method with supervised machine learning techniques. In [this pre-print](https://hal.science/hal-04936941) I developed a hybrid method enabling more accurate and efficient predictions of particle velocities and contact forces compared to traditional methods.
 <div style="text-align: center;">
 <figure>
