@@ -1,7 +1,7 @@
 ---
 title: "Reduction de modele basee sur des composants elementaires pour des systemes Thermo-Hydro-Mechaniques "
 collection: publications
-category: manuscripts
+category: thesis-manuscript
 permalink: /publication/2009-10-01-paper-title-number-5
 #excerpt: ''
 date: December 2022
