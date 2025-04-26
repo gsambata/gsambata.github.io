@@ -1,7 +1,7 @@
 ---
 title: "A nonlinear reduced-order model for parametrized variational inequalities: application to crowd motion"
 collection: publications #pre-print
-category: manuscripts
+category: pre-publications
 permalink: /publication/2009-10-01-paper-title-number-6
 excerpt: ''
 date: 2025-1-1
