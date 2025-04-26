@@ -23,5 +23,5 @@ dimensional numerical results inspired by hemodynamic applications, to validate 
 in the presence of large added mass effect. In particular, we consider numerical experiments both in
 an ideal spherical domain and in a realistic abdominal aortic aneurysm.
 
-**Key words.** optimized Schwarz method, spherical interfaces, fluid structure interaction,
-abdominal aortic aneurysm
+**Key words.** Optimized Schwarz method; Spherical interfaces; Fluid structure interaction;
+Abdominal aortic aneurysm
