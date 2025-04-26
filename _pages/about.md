@@ -26,11 +26,8 @@ From a mathematical perspective, the THM system we solve is a coupled, time-depe
 Changes in the position and/or number of radioactive waste repositories could lead to significant variations in predicted quantities of interest; the need to solve the numerical model multiple times for design and assessment justifies the application of component-based parametric model order reduction (CB-pMOR).
 In [Iollo et al. 2023](https://www.sciencedirect.com/science/article/pii/S0045782522007423) I proposed a CB-pMOR formulation for stationary problems in nonlinear elasticity. 
 Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sanchez_Pinedo_755799274pap_193.pdf) and in my [PhD thesis](https://theses.hal.science/tel-04006932/document) I extended the CB formulation and methodology to time-dependent nonlinear problems with internal variables to solve the THM problem of interest.
-<div style="text-align: center;">
-<figure>
 ![descrizione](files/radioactive_gif.gif)
-</figure>
-</div>
+
 
 ### <span class="blue">Multi-particles systems: model order reduction and machine learning.</span>
 **During my postdoc**, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. I explored novel numerical approaches that combine the reduced-basis method with supervised machine learning techniques. In [this pre-print](https://hal.science/hal-04936941) I developed a hybrid method enabling more accurate and efficient predictions of particle velocities and contact forces compared to traditional methods.
