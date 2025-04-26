@@ -7,9 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
+News: I recently obtained the SIAM Postdoctoral C.H. Robinson grant for the years 2025-2027.
 ======
 
 Heading 2
