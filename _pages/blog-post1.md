@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Il mio primo articolo"
-permalink: /blog/
 date: 2025-04-26
 ---
 
