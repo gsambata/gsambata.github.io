@@ -28,7 +28,7 @@ In [Iollo et al. 2023](https://www.sciencedirect.com/science/article/pii/S004578
 Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sanchez_Pinedo_755799274pap_193.pdf) and in my [PhD thesis](https://theses.hal.science/tel-04006932/document) I extended the CB formulation and methodology to time-dependent nonlinear problems with internal variables to solve the THM problem of interest.
 <div style="text-align: center;">
 <figure>
-![descrizione](files/radioactive_gif.gif)
+![descrizione]("files/radioactive_gif.gif")
 </figure>
 </div>
 
