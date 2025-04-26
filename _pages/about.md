@@ -28,11 +28,11 @@ In [Iollo et al. 2023](https://www.sciencedirect.com/science/article/pii/S004578
 Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sanchez_Pinedo_755799274pap_193.pdf) and in my [PhD thesis](https://theses.hal.science/tel-04006932/document) I extended the CB formulation and methodology to time-dependent nonlinear problems with internal variables to solve the THM problem of interest.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div>
-    <img src="files/radioactive_gif.gif" alt="Animazione" width="250">
+    <img src="files/radioactive_gif.gif" alt="Animazione" width="300">
     <p align="center">Time evolution of temperature T[K] for a 2-repositories configuration.</p>
   </div>
   <div>
-    <img src="files/schwarz.png" alt="Grafico" width="250">
+    <img src="files/schwarz.png" alt="Grafico" width="350">
     <p align="center">Our optimization-based method (red) with Gauss-Newton, quasi-Newton and the Overlapping Schwarz.</p>
   </div>
 </div>
@@ -41,14 +41,14 @@ Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sa
 
 ### <span class="blue">Multi-particles systems: model order reduction and machine learning.</span>
 **During my postdoc**, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. I explored novel numerical approaches that combine the reduced-basis method with supervised machine learning techniques. In [this pre-print](https://hal.science/hal-04936941) I developed a hybrid method enabling more accurate and efficient predictions of particle velocities and contact forces compared to traditional methods.
-<div style="text-align: center;">
-<figure>
-<video width="300" controls>
-  <source src="files/nlRBvideo.mp4" type="video/mp4">
-</video>
- <figcaption>Comparison between the nonlinear reduced basis (nlRB) reconstruction of the positions based on the employment of hyper-reduction---by Empirical Interpolation Method (EIM)---and the high-fidelity (HF) solutions.</figcaption>
+<figure style="text-align: center;">
+  <video width="300" controls style="display: block; margin: 0 auto;">
+    <source src="files/nlRBvideo.mp4" type="video/mp4">
+  </video>
+  <figcaption style="margin-top: 8px;">
+    Comparison between the nonlinear reduced basis (nlRB) reconstruction of the positions based on the employment of hyper-reduction—by Empirical Interpolation Method (EIM)—and the high-fidelity (HF) solutions.
+  </figcaption>
 </figure>
-</div>
 
 
   
