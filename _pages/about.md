@@ -32,7 +32,7 @@ Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sa
     <p align="center">Time evolution of temperature T[K] for a 2-repositories configuration.</p>
   </div>
   <div>
-    <img src="files/schwarz.png" alt="Grafico" width="450">
+    <img src="files/schwarz.png" alt="Grafico" width="500">
     <p align="center">Our optimization-based method (red) with Gauss-Newton, quasi-Newton and the Overlapping Schwarz.</p>
   </div>
 </div>
