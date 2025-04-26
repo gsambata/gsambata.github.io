@@ -16,6 +16,3 @@ main:
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Blog"   # Aggiungi questa sezione
-    url: /blog/      # Assicurati che il permalink del blog sia /blog/
