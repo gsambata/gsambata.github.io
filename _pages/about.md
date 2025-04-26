@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 _I am a Postdoctoral researcher in Applied Mathematics at FAU, Friedrich-Alexander-Universität, Erlangen (Germany), where I collaborate with [Prof. E. Zuazua](https://dcn.nat.fau.eu/zuazua/).\
-Before, I got a PhD in applied mathematics from the University of Bordeaux, (France) and I worked as a postdoctoral researcher at École Nationale des Ponts et Chaussées, Marne La Vallée, (France), in collaboration with [Prof. V. Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/)._
+Before, I got a PhD in applied mathematics from the University of Bordeaux, (France) and I worked as a postdoctoral researcher at École Nationale des Ponts et Chaussées, Marne La Vallée, (France) with [Prof. V. Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/)._
 
 ## Research interests
 <ul>
