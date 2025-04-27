@@ -16,6 +16,6 @@ main:
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Blog Posts"
+
+  - title: "<i class='fas fa-pen' style='margin-right:5px;'></i> Blog Posts"
     url: /year-archive/
