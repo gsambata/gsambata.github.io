@@ -42,7 +42,7 @@ Finally, in [Iollo et al. 2023](https://www.scipedia.com/wd/images/d/d9/Draft_Sa
 ### <span class="blue">Multi-particles systems: model order reduction and machine learning.</span>
 **During my postdoc**, I adapted recent approaches in nonlinear model reduction to predict solutions for time-dependent, parameterized discrete contact problems: the model I adopted is a crowd motion in the presence of obstacles. I explored novel numerical approaches that combine the reduced-basis method with supervised machine learning techniques. In [this pre-print](https://hal.science/hal-04936941) I developed a hybrid method enabling more accurate and efficient predictions of particle velocities and contact forces compared to traditional methods.
 <figure style="text-align: center;">
-  <video width="300" controls style="display: block; margin: 0 auto;">
+  <video width="300" controls autoplay muted style="display: block; margin: 0 auto;">
     <source src="files/nlRBvideo.mp4" type="video/mp4">
   </video>
   <figcaption style="margin-top: 8px;">
