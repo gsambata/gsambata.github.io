@@ -13,7 +13,7 @@ Before, I got a PhD in applied mathematics from the University of Bordeaux, (Fra
 <ul>
 <li> Numerical methods for partial differential equations (especially model order reduction) </li>
 <li>Data-based/simulation-based methods, machine learning techniques </li>
-<li>Multiphysics coupled systems, domain decomposition </li>
+<li>Multi-physics coupled systems, domain decomposition </li>
 <li>Variational inequalities describing problems in contact mechanics, crowd motion </li>
 </ul> 
 
