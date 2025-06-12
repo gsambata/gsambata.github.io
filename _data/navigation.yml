@@ -19,3 +19,6 @@ main:
 
   - title: "<i class='fas fa-pen' style='margin-right:5px;'></i> Blog Posts"
     url: /year-archive/
+    
+  - title: "Project Supervision"
+    url: /supervision/
