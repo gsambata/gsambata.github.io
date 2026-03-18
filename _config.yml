@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Giulia Sambataro"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doctoral researcher"
-  location         : "Germany"
-  employer         : "FAU"
+  bio              : "Chargée de Recherche"
+  location         : "France"
+  employer         : "Inria"
   uri              : # URL
-  email            : "giulia.sambataro@fau.de" 
+  email            : "giulia.sambataro@inria.fr" 
 
   # Academic websites
   #arxiv            : "https://arxiv.org/user/" # URL - Update with the correct link to your profile
