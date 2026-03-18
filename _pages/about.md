@@ -6,8 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 10px 16px; margin-bottom: 20px; border-radius: 4px;">
+  ⚠️ <strong>This website is currently under construction.</strong> Content is being updated progressively.
+</div>
+
 I am currently a  scientific researcher (Chargée de Recherche) at the [Inria center University of Lorraine and antenne and University of Strasbourg](https://www.inria.fr/fr/centre-inria-universite-lorraine) in the [MACARON](https://www.inria.fr/fr/macaron) research team.
-I have a PhD in Applied Mathematics from the University of Bordeaux (France). 
+I have a PhD in Applied Mathematics from the University of Bordeaux (France) under the supervision of [Prof. A. iollo](https://www.math.u-bordeaux.fr/~aiollo/Home.html) and [Dr. T. Taddei](https://www.math.u-bordeaux.fr/~ttaddei/).
 Before,I worked as a postdoctoral researcher at École Nationale des Ponts et Chaussées, Marne La Vallée, (France) with [Prof. V. Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/).
 
 ## Research interests
